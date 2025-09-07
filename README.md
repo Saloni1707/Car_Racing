@@ -7,4 +7,5 @@ Here I've implemented DQN using the current neural network and target neural net
 </br>
 2.Car_spec contains the basic math and configuration.
 
-Many articles and Deep learning policies helped me better understand DQN and it's implementation.
+Many articles helped better understand DQN and it's implementation.</br>
+https://karpathy.github.io/2016/05/31/rl/
