@@ -6,13 +6,13 @@ Implemented DQN using both the current neural network and the target neural netw
 
 Throughout this project, explored several concepts in RL and DQN, deepened my understanding of neural networks in control systems, and learned from various resources.
 
-Project Structure
+1)Project Structure
 
 Reinforcement_Learning → Contains the main logic of the DQN, including how the agent selects actions and updates its Q-values.
 
 Car_spec → Contains the car’s mathematical model, physics, and configuration details.
 
-Learnings
+2)Learnings
 
 Why Q-learning struggles in large state spaces.
 
@@ -20,6 +20,6 @@ How experience replay and target networks improve training stability.
 
 Practical implementation of RL in a continuous, dynamic environment.
 
-References
-Karpathy’s blog on RL
+3)References</br>
+Check out [Karpathy’s blog on Reinforcement Learning](https://karpathy.github.io/2016/05/31/rl/).
  — a great introduction that helped me understand the fundamentals.
