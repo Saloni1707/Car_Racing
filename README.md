@@ -19,4 +19,4 @@ II.Learnings
 3.Practical implementation of RL in a continuous, dynamic environment.
 
 References</br>
-Check out [Karpathy’s blog on Reinforcement Learning](https://karpathy.github.io/2016/05/31/rl/)(a great introduction that helped me understand the fundamentals)
+[Karpathy’s blog on Reinforcement Learning](https://karpathy.github.io/2016/05/31/rl/)(helped me understand the fundamentals)
